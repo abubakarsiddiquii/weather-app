@@ -1,0 +1,19 @@
+{
+  "name": "wheather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.9",
+    "request": "^2.88.2"
+  }
+}
